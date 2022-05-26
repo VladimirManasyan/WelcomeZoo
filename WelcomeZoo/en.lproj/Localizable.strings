@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  WelcomeZoo
+
+  Created by Vova on 26.05.22.
+  
+*/
+
+"Wlcome" = "Welcome Zoo";
+
+"Button" = "Get started";
+
+
+"Mammals" = "Mammals";
+
+"Insects" = "Insects";
+
+"Fishs" = "Fishs";
+
+"Birds" = "Birds";
+ 

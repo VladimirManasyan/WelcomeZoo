@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  WelcomeZoo
+
+  Created by Vova on 26.05.22.
+  
+*/
+
+"Wlcome" = "Добро божоловат в зоопарк";
+
+"Button" = "Начать";
+
+
+"Mammals" = "Млекопитающие";
+
+"Insects" = "Насекомые";
+
+"Fishs" = "Рыбы";
+
+"Birds" = "Птицы";

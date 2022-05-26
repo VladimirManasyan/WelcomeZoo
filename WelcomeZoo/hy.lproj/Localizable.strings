@@ -1,0 +1,20 @@
+/*
+  Localizable.strings
+  WelcomeZoo
+
+  Created by Vova on 26.05.22.
+  
+*/
+
+"Wlcome" = "Բարի գալուստ կենդանաբանական այգի";
+
+"Button" = "Սկսել";
+
+ 
+"Mammals" = "Կաթնասուններ";
+ 
+"Insects" = "Միջատներ";
+
+"Fishs" = "Ձկներ";
+
+"Birds" = "Թռչուններ";
